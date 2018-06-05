@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Weekday Finder
-//
-//  Created by Елена Позднякова on 01.06.2018.
-//  Copyright © 2018 swiftbook. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
